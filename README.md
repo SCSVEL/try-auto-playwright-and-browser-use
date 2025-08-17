@@ -4,6 +4,10 @@ This project demonstrates the use of Playwright for browser automation and testi
 
 Trying auto-playwright lib with TS + browser-use lib with Python
 
+
+![ScreenRecording](https://github.com/user-attachments/assets/43db7e8e-3550-44d1-bb9b-3611b59bb845)
+
+
 ## Project Structure
 
 - `main.py` — Main Python script
